@@ -1,1 +1,1 @@
-# HELPDESK.army.lk
+# helpdesk.army.lk
